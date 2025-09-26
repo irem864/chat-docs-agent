@@ -1,4 +1,7 @@
 Chat-Docs-Agent
+
+
+
 🇹🇷 Türkçe Açıklama
 Proje Hakkında
 
@@ -33,16 +36,28 @@ SerpAPI → Google aramaları üzerinden web’den ek bilgi çekmek için
  Özellikler
 
 ✅ PDF, TXT, DOCX, PPTX, PNG, JPG gibi formatlardan içerik çıkarma
+
+
 ✅ Belgeler üzerinde doğal dil ile arama yapma
+
+
 ✅ Web’den gerçek zamanlı bilgi araması yapabilme
+
+
 ✅ Gradio ile kolay kullanım sağlayan arayüz
+
+
 ✅ OpenAI / Google Gemini gibi LLM entegrasyonlarına uygun yapı
 
- Çalıştırma
-# Bağımlılıkları yükleyiniz
+
+
+ Çalıştırma aşaması
+
+ 
+Bağımlılıkları yükleyiniz
 pip install -r requirements.txt
 
-# Uygulamayı başlatınız
+Uygulamayı başlatınız
 python app.py
 
 
@@ -79,19 +94,29 @@ ChromaDB → For indexing documents and enabling fast retrieval
 
 SerpAPI → For fetching real-time information from Google Search
 
-🔹 Features
+ Features
 
 ✅ Supports PDF, TXT, DOCX, PPTX, PNG, JPG extraction
+
+
 ✅ Natural language Q&A over your documents
+
+
 ✅ Real-time web search integration
+
+
 ✅ User-friendly interface powered by Gradio
+
+
 ✅ Ready for OpenAI / Google Gemini LLM integrations
 
+
+
 🔹 How to Run
-# Install dependencies
+Install dependencies
 pip install -r requirements.txt
 
-# Start the app
+Start the app
 python app.py
 
 
